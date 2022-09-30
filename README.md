@@ -1,5 +1,5 @@
 # CanAm2021
-My work as a research assistant for the CanAm research project in 2021 & 2022. 
+My work as a research assistant for the CanAm research project in 2021 & 2022. These scripts resulted in a 15% increase in usable data for the study.
 
 ### Script Descriptions:
 
